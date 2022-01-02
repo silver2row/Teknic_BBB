@@ -48,7 +48,7 @@ The SC Hub is what I am talking about currently. You can run four motors off one
 You can also, if needed, attach the power hub with ease to the SC Hub in case
 one is worried about power failure and/or issues with too much current.
 
-** I will be making a short demo and I encourage you to provide the your build as well **
+** I will be making a short demo and I encourage you to provide your build as well **
 
 Seth
 
