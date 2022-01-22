@@ -1,6 +1,6 @@
 # TekTips-BeagleBone-Examples
 
-** I will be trying to set up some docs. **
+# ** I will be trying to set up some docs. **
 
 ` These docs. will be in relation to BeagleBone Black Rev. C `
 
@@ -15,7 +15,7 @@ your system, what C++ library is on your BBB or BBBW, and then use a
 Makefile with ` make ` to install the required lib. onto the BBB or other
 Single Board Computer with the am335x...
 
-So, sign in to the Teknic website at https://teknic.com/ and then scross the
+So, sign in to the Teknic website at https://teknic.com/ and then scroll the
 above options in the headers to Downloads and then to Clearpath and then to 
 Software. The software, their SDK in question, can be found in this option.
 
@@ -31,7 +31,7 @@ Then, going into the dir. to make the SDK is next.
 
 So, as most of everyone knows already, running heavy loads on fantastic motors
 does not come at a cheap price. So, if you are looking to add a high-end 
-motor to your BBB with SDKs involved, I recommend this product.
+motor to your BBB with a SDKs involved, I recommend these products.
 
 For back up of power failure on specific hardware during running routes and edges,
 one might also get a Power Hub from their company. They have drives, motors,
@@ -40,6 +40,9 @@ cables, and other hardware to get you up and running with ease.
 Look into their website if this is what should entail in your life.
 
 # 3. Making the USB Driver available on the BBB for working with their Hub...
+
+The USB Driver is for Windows OS support for altering, homing, and doing other
+tasks on the Motor in question for Teknic.
 
 There is also another type of hardware piece to get if working with their SDK and
 motors, i.e. the Software Controlled ClearPath Servos. They are fully integrated.
