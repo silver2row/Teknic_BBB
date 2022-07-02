@@ -61,3 +61,9 @@ from them, please add on and stay collective.
 ` Here is a video of the BBB with such a servo! `
 
 https://youtu.be/R7bgAo0EINI 
+
+and...
+
+This is as far as I have gotten w/ the BBB and the teknic.com hardware/software...
+
+I know ` boring ` but it is not over! https://youtube.com/shorts/KTfUQBa_BQI?feature=share
