@@ -57,3 +57,7 @@ Seth
 
 P.S. If by chance you are working with these SC-Servos from Teknic and have used the SDK
 from them, please add on and stay collective. 
+
+` Here is a video of the BBB with such a servo! `
+
+https://youtu.be/R7bgAo0EINI 
