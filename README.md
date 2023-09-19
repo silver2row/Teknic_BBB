@@ -112,7 +112,9 @@ int main(int argc, char* argv[]){
 
 ```
 
-![This is the hookup guide for ClearPath Motors...partially](IPC_ClearPath_HookUp_Guide.png)
+<div>
+  <img src="IPC_ClearPath_HookUp_Guide.png" alt="Hookup Guide for ClearPath">
+</div>
 
 As of now, there has been an update by the Co. that produced the motors,
 the SDK, and the templates.
