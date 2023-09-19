@@ -2,7 +2,9 @@
 
 # ** I will be trying to set up some docs. **
 
-` These docs. will be in relation to BeagleBone Black Rev. C `
+`These docs. will be in relation to BeagleBone Black Rev. C.`
+and...
+`I am also trying to make this source work w/ the BeagleBoneAI-64, respectively.`
 
 # 1. Adding the correct documentation...
 
